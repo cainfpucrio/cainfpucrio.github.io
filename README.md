@@ -4,16 +4,20 @@ Guia para os calouros de CC/SI/ECP da PUC-Rio, visando uma introdução geral na
 
 ### O que é este projeto e como contribuir:
   A ideia do projeto é criar um guia para os calouros e não calouros.
+  
   O projeto é aberto, se quiser contribuir basta editar um arquivo e submeter um pull request.
+  
   Contribuições sugeridas: 
-    * Sugestões de novos arquivos.
-    * Um parágrafo introduzindo o assunto do arquivo.
-    * Links interessantes.
-    * Correções.
+  
+  * Sugestões de novos arquivos.
+  * Um parágrafo introduzindo o assunto do arquivo.
+  * Links interessantes.
+  * Correções.
+  
   Muitos dos tópicos ficam satisfeitos com um caminho das pedras de links.
   
   
-* Links da PUC 
+### Links da PUC 
   * [Departamento de Informática](http://www.inf.puc-rio.br/)
     * Site do departamento 
     * Anúncio de palestras 
@@ -29,9 +33,9 @@ Guia para os calouros de CC/SI/ECP da PUC-Rio, visando uma introdução geral na
   * [Micro horário](www.puc-rio.br/microhorario)
     * Mecanismo de busca de informações.
 
-* Comparação dos cursos
+### Comparação dos cursos
 
-* Estatísticas 
+### Estatísticas 
 
-* Index desse repositório 
+### Index desse repositório 
   
