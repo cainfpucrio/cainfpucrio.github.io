@@ -3,8 +3,14 @@
 Guia para os calouros de CC/SI/ECP da PUC-Rio, visando uma introdução geral na informática e na cultura que a cerca.
 
 ### O que é este projeto e como contribuir:
-  A ideia do projeto é criar um guia para os calouros e não calouros, utilizando a ideia de mostrar o caminho das pedras.
+  A ideia do projeto é criar um guia para os calouros e não calouros.
   O projeto é aberto, se quiser contribuir basta editar um arquivo e submeter um pull request.
+  Contribuições sugeridas: 
+    * Sugestões de novos arquivos.
+    * Um parágrafo introduzindo o assunto do arquivo.
+    * Links interessantes.
+    * Correções.
+  Muitos dos tópicos ficam satisfeitos com um caminho das pedras de links.
   
   
 * Links da PUC 
