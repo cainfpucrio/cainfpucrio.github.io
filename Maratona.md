@@ -45,8 +45,8 @@ A primeira fase ocorrerá em Setembro. Os times cariocas classificados para a fi
 
 Em primeiro lugar, confira se você se encaixa nos critérios de participação:
 
-  * Ter iniciado a primeira graduação em 2009 ou mais tarde; ou
-  * Ter nascido em 1990 ou ano posterior
+  * Ter iniciado a primeira graduação em 2011 ou mais tarde; ou
+  * Ter nascido em 1992 ou ano posterior
 
   (ou seja, vale o critério mais permissivo)
 
