@@ -32,6 +32,7 @@ Guia para os calouros de CC/SI/ECP da PUC-Rio, visando uma introdução geral na
     * Provas antigas, datas de provas e exercícios das matérias de ciclo básico.
   * [Micro horário](www.puc-rio.br/microhorario)
     * Mecanismo de busca de informações.
+  * [Calendário](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/index.html)
 
 ### Comparação dos cursos
 
