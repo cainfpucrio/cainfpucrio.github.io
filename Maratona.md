@@ -66,7 +66,7 @@ São também realizadas aulas e treinos semanais, com a participação de ex-com
 
 * Estou interessado!
 
-Entre em contato com o coach atual, Daniel Marques, e/ou na lista de emails da PUC para a Maratona: "acmicpc-puc" no Google Groups.
+Entre em contato com o coach atual, Daniel Marques ([facebook](https://www.facebook.com/daniel.marques.5439), Danielsmarques7@gmail.com), e/ou na lista de emails da PUC para a Maratona: "acmicpc-puc" no Google Groups.
 
 Wiki da PUC-Rio http://maratonapuc.wikidot.com
 
