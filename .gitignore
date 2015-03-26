@@ -1,9 +1,4 @@
 _site
 .sass-cache
 node_modules
-Gemfile
 Gemfile.lock
-LICENSE
-README
-package.json
-Gruntfile.js
