@@ -6,7 +6,8 @@ module.exports = function(grunt) {
     // Task configuration.
     'gh-pages': {
        options: {
-         base: '_site'
+         base: '_site',
+         branch: 'master'
        },
        src: ['**/*']
      }
