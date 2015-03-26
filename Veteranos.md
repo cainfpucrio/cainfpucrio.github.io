@@ -1,1 +1,0 @@
-Contato dos veteranos:
