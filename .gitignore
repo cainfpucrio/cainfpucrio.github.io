@@ -1,7 +1,0 @@
-_site
-.sass-cache
-node_modules/
-Gemfile.lock
-Gemfile
-Gruntfile.js
-
