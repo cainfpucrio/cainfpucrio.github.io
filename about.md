@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sobre Papo de homem
-permalink: /about/
+title: facebook
+permalink: /face/
 ---
 
 (https://www.facebook.com/CAINFPUCRIO)
